@@ -134,3 +134,13 @@ printenv
 These are automatically set by the shell whenever a session starts.
 
 ---
+
+# 🎯 Summary
+
+| Type of Variable         | Scope                       | Set By     | Passed to Child Processes? |
+| ------------------------ | --------------------------- | ---------- | -------------------------- |
+| **Local Variable**       | Inside function only        | User       | ❌ No                       |
+| **Global Variable**      | Entire script               | User       | ❌ No (unless exported)     |
+| **Environment Variable** | Shell + all child processes | Shell/User | ✔ Yes                      |
+
+---
