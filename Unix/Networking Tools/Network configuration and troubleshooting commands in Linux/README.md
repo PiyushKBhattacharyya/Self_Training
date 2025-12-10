@@ -1,4 +1,4 @@
-# Network Configuration and Troubleshooting Commands in Linux
+# 🌐 Network Configuration and Troubleshooting Commands in Linux
 
 Computers in a network communicate using packets sent between hosts.  
 Linux provides several essential commands for network configuration, diagnostics, and troubleshooting.
@@ -7,10 +7,10 @@ Below are the major tools used in Linux networking:
 
 ---
 
-## 1. ping (Packet Internet Groper)
+## 1. 🟢 ping (Packet Internet Groper)
 Tests network connectivity between your system and another host.
-- Checks if the destination is reachable.
-- Measures round-trip time (RTT).
+- ✔️ Checks if the destination is reachable  
+- 📉 Measures round-trip time (RTT)
 
 **Example:**
 ```bash
@@ -19,7 +19,7 @@ ping google.com
 
 ---
 
-## 2. nslookup
+## 2. 🔍 nslookup
 Queries DNS servers to retrieve domain name or IP address information.
 
 **Example:**
@@ -29,9 +29,9 @@ nslookup google.com
 
 ---
 
-## 3. traceroute
+## 3. 🛣️ traceroute
 Displays the path packets take to reach a destination.
-- Helps identify network delays or failures.
+- 🕵️ Helps identify network delays or failures.
 
 **Example:**
 ```bash
@@ -40,7 +40,7 @@ traceroute google.com
 
 ---
 
-## 4. host
+## 4. 🌐 host
 Simple DNS lookup tool that maps domain names to IP addresses.
 
 **Example:**
@@ -50,7 +50,7 @@ host google.com
 
 ---
 
-## 5. netstat
+## 5. 📊 netstat
 Displays network connections, listening ports, routing tables, and interface statistics.
 
 **Example:**
@@ -60,7 +60,7 @@ netstat -tuln
 
 ---
 
-## 6. arp
+## 6. 🔗 arp
 Views or modifies the ARP cache.
 
 **Example:**
@@ -70,7 +70,7 @@ arp -a
 
 ---
 
-## 7. ifconfig
+## 7. 🖧 ifconfig
 Displays or configures network interfaces.
 (Note: Replaced by `ip addr` on modern systems.)
 
@@ -81,7 +81,7 @@ ifconfig
 
 ---
 
-## 8. dig
+## 8. 🧭 dig
 Performs advanced DNS queries and shows detailed DNS records.
 
 **Example:**
@@ -91,7 +91,7 @@ dig google.com
 
 ---
 
-## 9. route
+## 9. 🛰️ route
 Displays or edits the system’s routing table.
 
 **Example:**
@@ -101,7 +101,7 @@ route -n
 
 ---
 
-## 10. ethtool
+## 10. ⚙️ ethtool
 Displays or modifies network interface driver settings such as speed, duplex mode, and link state.
 
 **Example:**
@@ -111,7 +111,7 @@ ethool eth0
 
 ---
 
-## 11. hostname
+## 11. 🏷️ hostname
 Displays or sets the system hostname.
 
 **Example:**
