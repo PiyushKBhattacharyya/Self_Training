@@ -29,3 +29,12 @@ Everything here is structured to support **revision, interview prep, and hands-o
 
 ---
 
+## 🔄 Continuous Updates
+
+This repository will be updated regularly as new concepts, examples, and learning modules are added.
+
+Feel free to explore, learn, and reuse the content.
+
+---
+
+## 🚀 Happy Learning!
