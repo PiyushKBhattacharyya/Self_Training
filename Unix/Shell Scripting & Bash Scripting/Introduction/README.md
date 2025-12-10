@@ -224,3 +224,5 @@ Reload terminal → and use the new command:
 ```bash
 jump dir_name
 ```
+
+---
