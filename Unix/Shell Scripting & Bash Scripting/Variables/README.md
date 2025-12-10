@@ -1,4 +1,4 @@
-# 🐚 Shell Scripting – Different Types of Variables  
+# 🐚 Variables  
 
 The **shell** is a command-line interpreter in Linux/Unix that provides an interface between the user and the kernel.  
 You can write multiple commands inside a file — a **shell script** — allowing automation of tasks in Linux.
