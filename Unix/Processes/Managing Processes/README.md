@@ -33,6 +33,7 @@ sleep 5 &
 # 🔁 Process States in Linux
 
 ![Process States](process_state.webp)
+
 A process moves through several states during its lifecycle:
 
 | State | Meaning |
