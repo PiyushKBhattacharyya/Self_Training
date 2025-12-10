@@ -1,5 +1,4 @@
 # 🖥️ Terminal, Console, Shell, and Kernel  
-**Last Updated : 28 Nov, 2025**
 
 The **terminal, console, shell, and kernel** are fundamental components of an operating system.  
 They connect *user commands → system software → hardware* through layered communication.
