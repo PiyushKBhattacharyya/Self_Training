@@ -1,7 +1,5 @@
 # Introduction to Java
 
-*Last Updated: 11 Nov, 2025*
-
 Java is a **high-level, object-oriented programming language** developed by Sun Microsystems in 1995. It is widely used for building desktop applications, web applications, Android apps, and enterprise systems.
 
 ---
