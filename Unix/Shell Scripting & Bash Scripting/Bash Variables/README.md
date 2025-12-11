@@ -1,5 +1,4 @@
-# 🚀 Bash Script — Define Bash Variables & Their Types
-**Last Updated: 23 Jul, 2025**
+# 🚀 Bash Variables & Their Types
 
 Variables are essential in Bash scripting. They let you **store, read, access, and manipulate data** inside scripts.
 
