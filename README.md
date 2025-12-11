@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Language-Bash%20%7C%20Python-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/Shell%20%7C%20Bash-black?style=flat-square&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/License-Personal-lightgrey?style=flat-square">
 </p>
 
@@ -20,7 +20,7 @@
 This repository serves as a **personal learning vault** — a continuously expanding collection of:
 
 - 🐧 **Linux & UNIX concepts**
-- 💻 **Shell scripting examples**
+- 💻 **Shell & Bash scripting examples**
 - ⚙️ **System administration commands**
 - 🧪 **Experimentation & sandbox code**
 - 📘 **Cheat sheets and quick-reference docs**
