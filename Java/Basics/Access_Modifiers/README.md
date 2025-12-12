@@ -197,7 +197,7 @@ public class pubModifier {
 
 ---
 
-# When to Use Each Access Modifier (Real-World Guidelines)
+# When to Use Each Access Modifier
 
 ### **Private**
 
