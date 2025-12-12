@@ -2,7 +2,7 @@
 
 <p align="center">
   A curated collection of technical notes, code snippets, cheat sheets, and self-study material  
-  covering Linux, Shell Scripting, System Programming, DevOps fundamentals, and more.
+  covering Linux, Shell Scripting, System Programming, DevOps fundamentals, Java, and more.
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Shell%20%7C%20Bash-black?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-Programming-orange?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/License-Personal-lightgrey?style=flat-square">
 </p>
 
@@ -21,6 +22,7 @@ This repository serves as a **personal learning vault** — a continuously expan
 
 - 🐧 **Linux & UNIX concepts**
 - 💻 **Shell & Bash scripting examples**
+- ☕ **Java programming basics + advanced concepts**
 - ⚙️ **System administration commands**
 - 🧪 **Experimentation & sandbox code**
 - 📘 **Cheat sheets and quick-reference docs**
