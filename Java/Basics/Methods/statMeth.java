@@ -1,4 +1,4 @@
-package Java.Methods;
+package Java.Basics.Methods;
 
 class Test {
     static void hello() {

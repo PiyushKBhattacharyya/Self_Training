@@ -1,4 +1,4 @@
-package Java.Methods;
+package Java.Basics.Methods;
 
 abstract class absMeth {
     abstract void check(String name);

@@ -1,4 +1,4 @@
-package Java.Methods;
+package Java.Basics.Methods;
 
 public class Hello
 {

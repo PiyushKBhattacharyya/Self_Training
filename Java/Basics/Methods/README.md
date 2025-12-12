@@ -1,7 +1,5 @@
 # Java Methods
 
-*Last Updated: 07 Oct, 2025*
-
 Java **methods** are blocks of code that perform a specific task. Methods allow code reusability and better organization. All methods in Java must belong to a class. They are similar to functions in other languages and represent the **behavior of objects**.
 
 ---

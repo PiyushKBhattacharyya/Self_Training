@@ -1,7 +1,5 @@
 # Java Programming Basics
 
-*Last Updated: 20 Aug, 2025*
-
 Java is a **class-based, object-oriented programming language** designed to be secure and portable. Its core philosophy is **WORA (Write Once, Run Anywhere)**, meaning Java code can run on any device with a Java Virtual Machine (JVM).
 
 ---
