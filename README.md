@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Shell%20%7C%20Bash-black?style=flat-square&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Java-Programming-orange?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Programming-yellow?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/License-Personal-lightgrey?style=flat-square">
 </p>
 
@@ -23,6 +24,7 @@ This repository serves as a **personal learning vault** — a continuously expan
 - 🐧 **Linux & UNIX concepts**
 - 💻 **Shell & Bash scripting examples**
 - ☕ **Java programming basics + advanced concepts**
+- 🐍 **Python scripts & learning modules**
 - ⚙️ **System administration commands**
 - 🧪 **Experimentation & sandbox code**
 - 📘 **Cheat sheets and quick-reference docs**
