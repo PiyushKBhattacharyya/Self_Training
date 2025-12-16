@@ -1,1 +1,24 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Java
 *.class
+*.jar
+*.war
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.pytest_cache/
+
+# Node.js (MERN/MEAN)
+node_modules/
+dist/
+build/
+npm-debug.log
+yarn-error.log
+.env
