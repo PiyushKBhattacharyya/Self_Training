@@ -6,10 +6,10 @@
         "start": "node 1_Node_Express/Examples/product_api.js"
     },
     "dependencies": {
-        "@angular/common": "^17.0.0",
+        "@angular/common": "^21.0.5",
         "@angular/core": "^17.0.0",
-        "@angular/platform-browser": "^17.0.0",
-        "@angular/platform-browser-dynamic": "^17.0.0",
+        "@angular/platform-browser": "^21.0.5",
+        "@angular/platform-browser-dynamic": "^21.0.5",
         "express": "^4.18.2",
         "mongoose": "^8.0.0",
         "rxjs": "^7.8.0",
